@@ -1,4 +1,4 @@
-# artDjango
+# artDjango 2
 
 
 
