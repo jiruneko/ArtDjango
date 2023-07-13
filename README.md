@@ -8,3 +8,5 @@ Pillow
 pytz
 scikit-learn
 scipy
+
+(it is a old...)
